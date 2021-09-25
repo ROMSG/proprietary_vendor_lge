@@ -70,63 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_hi553_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_hi553_video.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_hi553_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_hi553_zsl_preview.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_hi553_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_hi553_zsl_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_4K_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_4K_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_4K_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_4K_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_common.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_flash_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_flash_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_hfr_120.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_hfr_60.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_liveshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_panorama.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_panorama.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_cpp_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_default_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_default_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_hfr_120.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_hfr_120_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_hfr_60.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_hfr_60_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_hfr_60_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_panorama_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_panorama_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_postproc.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_zsl_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_zsl_preview_wide.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_zsl_preview_wide.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx219_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx219_zsl_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_4K_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_4K_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_common.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_flash_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_flash_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_hfr_120.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_hfr_60.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_liveshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_liveshot_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_liveshot_hdr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_panorama.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_panorama.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_raw_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_raw_hdr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_snapshot_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_snapshot_hdr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_cpp_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_default_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_default_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_hdr_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_hdr_video_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_hfr_120.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_hfr_120_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_hfr_60.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_hfr_60_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_hfr_60_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_panorama_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_panorama_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_postproc.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_raw_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_raw_hdr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_raw_hdr_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_raw_hdr_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_snapshot_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_snapshot_hdr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_snapshot_hdr_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_snapshot_hdr_3a.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_zsl_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_zsl_preview_wide.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_zsl_preview_wide.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_imx298_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx298_zsl_video.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_s5k2p7_4K_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k2p7_4K_video.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_s5k2p7_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k2p7_common.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libchromatix_s5k2p7_cpp_flash_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k2p7_cpp_flash_snapshot.so \
@@ -169,53 +112,30 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_preview_2P7.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_preview_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_preview_hi553_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_preview_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_preview_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_preview_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_video_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_video_2P7.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_video_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_video_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_video_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_video_hi553_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_video_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_video_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_4k_video_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_4k_video_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_preview_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_preview_2P7.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_preview_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_preview_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_preview_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_preview_hi553_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_preview_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_preview_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_preview_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_preview_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_video_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_video_2P7.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_video_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_video_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_video_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_video_hi553_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_video_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_video_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_default_video_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_default_video_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hdr_snapshot_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hdr_snapshot_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hdr_snapshot_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hdr_snapshot_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hdr_video_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hdr_video_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hdr_video_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hdr_video_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_120_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_120_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_120_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_120_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_120_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_120_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_60_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_60_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_60_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_60_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_60_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_60_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_90_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_90_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_90_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_90_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_hfr_90_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_hfr_90_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_panorama_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_panorama_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_panorama_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_panorama_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_panorama_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_panorama_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_raw_hdr_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_raw_hdr_2P7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_raw_hdr_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_raw_hdr_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_vt_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_vt_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_vt_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_vt_hi553_lgit.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_preview_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_preview_2P7.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_preview_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_preview_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_preview_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_preview_hi553_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_preview_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_preview_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_preview_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_preview_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_2P7.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_video_2P7.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_hi553_cowell.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_video_hi553_cowell.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_hi553_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_video_hi553_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_video_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_ae_parameter_zsl_video_imx298.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_ae_parameter_zsl_video_imx298.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_2P7_4k_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_2P7_4k_preview.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_2P7_4k_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_2P7_4k_video.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_2P7_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_2P7_default_preview.so \
@@ -255,125 +175,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_hi553_lgit_raw_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_hi553_lgit_raw_hdr.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_hi553_lgit_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_hi553_lgit_zsl_preview.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_hi553_lgit_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_hi553_lgit_zsl_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_4k_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_4k_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_4k_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_4k_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_default_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_default_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_hfr_120.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_hfr_60.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_hfr_90.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_panorama.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_panorama.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_zsl_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx219_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx219_zsl_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_4k_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_4k_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_4k_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_4k_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_default_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_default_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_hdr_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_hdr_snapshot.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_hdr_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_hdr_video.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_hfr_120.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_hfr_60.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_hfr_90.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_panorama.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_panorama.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_raw_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_raw_hdr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_zsl_preview.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/liblg_awb_parameter_imx298_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblg_awb_parameter_imx298_zsl_video.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblgae_main.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblgae_main.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblgawb_main.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblgawb_main.so \
     vendor/lge/v20-common/proprietary/vendor/lib/liblghdri.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblghdri.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-qcamera.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_c2d_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_c2d_module.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_cpp_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_cpp_module.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_frame_algorithm.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_iface_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_iface_modules.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_imglib_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_imglib_modules.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_is.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_is.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_isp_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_isp_modules.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_mct.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_mct.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_mct_shimlayer.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_mct_shimlayer.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_pp_buf_mgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_pp_buf_mgr.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_pproc_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_pproc_modules.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_q3a_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_q3a_core.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_sensor_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_sensor_modules.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_stats_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_algorithm.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera2_stats_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_modules.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_brcb032gwz_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_brcb032gwz_eeprom.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_brcb032gwz_s5k2p7_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_brcb032gwz_s5k2p7_eeprom.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_dbg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dbg.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_dummyalgo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dummyalgo.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_eebinparse.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_eebinparse.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_eeprom_checksum.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_eeprom_checksum.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_eeprom_util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_eeprom_util.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_eztune_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_eztune_module.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_facedetection_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_facedetection_lib.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_faceproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_faceproc.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_faceproc2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_faceproc2.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hdr_gb_lib.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_hi553.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hi553.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_hvx_add_constant.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hvx_add_constant.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_hvx_grid_sum.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hvx_grid_sum.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_hvx_zzHDR.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_hvx_zzHDR.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_imglib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imglib.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_imglib_faceproc_adspstub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imglib_faceproc_adspstub.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_imx219.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx219.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_imx298_lgit.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx298_lgit.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_imx298_mitsumi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx298_mitsumi.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_abf47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_abf47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_aec_bg_stats47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_aec_bg_stats47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_bf_stats47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_bf_stats47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_bg_stats46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_bg_stats46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_bhist_stats44.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_bhist_stats44.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_black_level47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_black_level47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_bpc47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_bpc47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_cac47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_cac47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_chroma_enhan40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_chroma_enhan40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_chroma_suppress40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_chroma_suppress40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_clamp_encoder40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_clamp_encoder40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_clamp_video40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_clamp_video40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_clamp_viewfinder40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_clamp_viewfinder40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_color_correct46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_color_correct46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_color_xform_encoder46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_color_xform_encoder46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_color_xform_video46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_color_xform_video46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_color_xform_viewfinder46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_color_xform_viewfinder46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_cs_stats46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_cs_stats46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_demosaic47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_demosaic47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_demux40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_demux40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_fovcrop_encoder46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_fovcrop_encoder46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_fovcrop_video46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_fovcrop_video46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_fovcrop_viewfinder46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_fovcrop_viewfinder46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_gamma44.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_gamma44.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_gic46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_gic46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_gtm46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_gtm46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_hdr46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_hdr46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_hdr_be_stats46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_hdr_be_stats46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_ihist_stats46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_ihist_stats46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_linearization40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_linearization40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_ltm47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_ltm47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_mce40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_mce40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_mesh_rolloff44.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_mesh_rolloff44.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_pedestal_correct46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_pedestal_correct46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_rs_stats46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_rs_stats46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_scaler_encoder46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_scaler_encoder46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_scaler_video46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_scaler_video46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_scaler_viewfinder46.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_scaler_viewfinder46.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_sce40.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_sce40.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_snr47.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_snr47.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_isp_sub_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_sub_module.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_lc898123f40_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_lc898123f40_eeprom.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_m24c32_hi553_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_m24c32_hi553_eeprom.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_m24c32_imx219_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_m24c32_imx219_eeprom.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_paaf_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_paaf_lib.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_pdaf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_pdaf.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_pdafcamif.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_pdafcamif.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_ppbase_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ppbase_module.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_ppeiscore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ppeiscore.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_s5k2p7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k2p7.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_thread_services.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_thread_services.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_tintless_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tintless_algo.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tintless_bg_pca_algo.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tuning.so \
-    vendor/lge/v20-common/proprietary/vendor/lib/libmmcamera_tuning_lookup.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_tuning_lookup.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libmmjpeg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libmmjpeg_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg_interface.so \
     vendor/lge/v20-common/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
@@ -391,12 +195,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
     vendor/lge/v20-common/proprietary/vendor/lib64/libfpfactory.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfactory.so \
     vendor/lge/v20-common/proprietary/vendor/lib64/libfpfactory_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfactory_jni.so \
-    vendor/lge/v20-common/proprietary/vendor/lib64/libmmcamera2_frame_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera2_frame_algorithm.so \
-    vendor/lge/v20-common/proprietary/vendor/lib64/libmmcamera2_is.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera2_is.so \
-    vendor/lge/v20-common/proprietary/vendor/lib64/libmmcamera2_stats_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera2_stats_algorithm.so \
-    vendor/lge/v20-common/proprietary/vendor/lib64/libmmcamera_dbg.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_dbg.so \
-    vendor/lge/v20-common/proprietary/vendor/lib64/libmmcamera_tintless_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_tintless_algo.so \
-    vendor/lge/v20-common/proprietary/vendor/lib64/libmmcamera_tintless_bg_pca_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmcamera_tintless_bg_pca_algo.so
 
 PRODUCT_PACKAGES += \
     fingerprint.msm8996
